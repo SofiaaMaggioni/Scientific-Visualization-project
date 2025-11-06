@@ -1,2 +1,18 @@
 # Scientific-Visualization-project
-Data Imputation project make using Python and its extension
+A.A. 2025-2026 - UNIVERSITA' DEGLI STUDI DI MILANO.
+
+VOTE:
+
+Group project.
+
+## Description of our GOAL and how we have operated
+Starting from PTB-XL dataset, we have to discover if there are some connections between BMI and cardiovascular patholgies. 
+Thanks to our dataset studies we discovered that there are lots of missing data inside it; for this reason we applied DATA IMPUTATION all over the dataset.
+We use three different types of data imputation algorithms (linear regression, k nearest neighbors, miss forest) and we have found that the most effective is miss forest.
+We plotted several graphs to better understand how the data were related to each other.
+
+## Language and tools we used
+- Python language
+- DeepNote for writing code
+- Canva for presentation
+- Notion to organize and divide the work

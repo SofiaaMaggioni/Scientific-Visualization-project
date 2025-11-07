@@ -12,7 +12,7 @@ We use three different types of data imputation algorithms (linear regression, k
 We plotted several graphs to better understand how the data were related to each other.
 
 ## Language and tools we used
-- Python language
+- Python language - Jupyter notebook
 - DeepNote for writing code
 - Canva for presentation.
   

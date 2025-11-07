@@ -14,5 +14,6 @@ We plotted several graphs to better understand how the data were related to each
 ## Language and tools we used
 - Python language
 - DeepNote for writing code
-- Canva for presentation. Link -> https://www.canva.com/design/DAG3vFpVIWM/hiRAR5f0Jy1IO7F6ViEuMg/view?utm_content=DAG3vFpVIWM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hc0cd5e692e
+- Canva for presentation.
+    Link -> https://www.canva.com/design/DAG3vFpVIWM/hiRAR5f0Jy1IO7F6ViEuMg/view?utm_content=DAG3vFpVIWM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hc0cd5e692e
 - Notion to organize and divide the work
